@@ -1,3 +1,5 @@
+# This program converts a string to a float.
+
 def convert(string):
     try:
         return float(string)

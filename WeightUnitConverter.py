@@ -1,3 +1,5 @@
+# This is a program to convert your weight from pounds to kilograms or vice versa
+
 weight = int(input("What is your weight? "))
 metric = input("(L)bs or (K)gs? ")
 

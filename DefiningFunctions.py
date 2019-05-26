@@ -1,3 +1,5 @@
+# This program is a basic exercise in defining a function.
+
 def f(x):
     return x * 5
 

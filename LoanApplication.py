@@ -1,4 +1,3 @@
-
 # This is a program to determine if you qualify for a loan based on income and credit score.
 
 income = input('What is your yearly income? ex. "50000" ')
